@@ -34,20 +34,9 @@
       "title": "Predictive Maintenance"
     }
   ],
-  "sci:doi": "",
-  "sci:citation": "",
   "subtitle": "",
   "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//",
-  "themes": [],
-  "locations": true,
-  "tags": [],
-  "agency": [],
   "subcode": "AIT1",
-  "collection_group": "",
-  "sensor": [],
-  "satellite": [],
-  "insituSources": [],
-  "otherSources": [],
   "eox:colorlegend": {
     "title": "Ground movement",
     "range": [
@@ -67,7 +56,7 @@
     "scaleType": "categorical",
     "markType": "rect"
   },
-  "endpointtype": "GeoJSON source_byoc",
+  "endpointtype": "GeoJSON source",
   "title": "Predictive Maintenance",
   "extent": {
     "spatial": {
@@ -89,15 +78,8 @@
       ]
     }
   },
-  "license": "proprietary",
+  "license": "other",
   "assets": {
-    "legend": {
-      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//",
-      "type": "image/png",
-      "roles": [
-        "metadata"
-      ]
-    },
     "thumbnail": {
       "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//",
       "type": "image/png",

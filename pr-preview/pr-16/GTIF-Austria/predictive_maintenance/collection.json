@@ -15,20 +15,11 @@
       "href": "./predictive_maintenance/collection.json",
       "type": "application/json",
       "title": "Predictive Maintenance",
-      "endpointtype": "GeoJSON source_byoc",
+      "endpointtype": "GeoJSON source",
       "subtitle": "",
       "code": "AIT1",
       "id": "predictive_maintenance",
-      "themes": [],
-      "locations": true,
-      "tags": [],
-      "agency": [],
-      "subcode": "AIT1",
-      "collection_group": "",
-      "sensor": [],
-      "satellite": [],
-      "insituSources": [],
-      "otherSources": []
+      "subcode": "AIT1"
     },
     {
       "rel": "service",
@@ -100,20 +91,9 @@
       "title": "GTIF Austria"
     }
   ],
-  "sci:doi": "",
-  "sci:citation": "",
   "subtitle": "",
   "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//",
-  "themes": [],
-  "locations": true,
-  "tags": [],
-  "agency": [],
   "subcode": "AIT1",
-  "collection_group": "",
-  "sensor": [],
-  "satellite": [],
-  "insituSources": [],
-  "otherSources": [],
   "eox:colorlegend": {
     "title": "Ground movement",
     "range": [
@@ -162,7 +142,7 @@
       ]
     }
   },
-  "license": "proprietary",
+  "license": "other",
   "summaries": {
     "subcode": [
       "AIT1"
@@ -172,13 +152,6 @@
     ]
   },
   "assets": {
-    "legend": {
-      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//",
-      "type": "image/png",
-      "roles": [
-        "metadata"
-      ]
-    },
     "thumbnail": {
       "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//",
       "type": "image/png",
