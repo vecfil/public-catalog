@@ -45,7 +45,6 @@
   "subtitle": "",
   "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//",
   "themes": [],
-  "locations": true,
   "tags": [],
   "agency": [],
   "subcode": "DHI1",
@@ -55,13 +54,13 @@
   "insituSources": [],
   "otherSources": [],
   "eox:colorlegend": {
-    "domain": [],
-    "marktype": "rect",
+    "title": "",
     "range": [],
-    "scaletype": "continuous",
+    "domain": [],
     "tickFormat": "",
     "tickValues": [],
-    "title": ""
+    "scaletype": "continuous",
+    "marktype": "rect"
   },
   "endpointtype": "COG source_byoc",
   "title": "Wind Energy Assessment",
