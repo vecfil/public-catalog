@@ -30,6 +30,19 @@
       "collection_group": "Capabilities"
     },
     {
+      "rel": "child",
+      "href": "./predictive_maintenance/collection.json",
+      "type": "application/json",
+      "title": "Predictive Maintenance",
+      "subtitle": "",
+      "code": "AIT1",
+      "id": "predictive_maintenance",
+      "subcode": "AIT1",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//"
+      ]
+    },
+    {
       "rel": "self",
       "href": "https://gtif-austria.github.io/public-catalog/GTIF-Austria/catalog.json",
       "type": "application/json"
