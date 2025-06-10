@@ -88,7 +88,7 @@
   ],
   "sci:doi": "",
   "sci:citation": "",
-  "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//",
+  "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//assets/wr02_preview.jpg",
   "themes": [],
   "locations": true,
   "tags": [],
@@ -127,19 +127,19 @@
       "GLO"
     ],
     "thumbnail": [
-      "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//"
+      "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//assets/wr02_preview.jpg"
     ]
   },
   "assets": {
     "legend": {
-      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//assets/wr02_preview.jpg",
+      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//",
       "type": "image/png",
       "roles": [
         "metadata"
       ]
     },
     "thumbnail": {
-      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//",
+      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//assets/wr02_preview.jpg",
       "type": "image/png",
       "roles": [
         "thumbnail"
