@@ -58,13 +58,13 @@
       "rel": "collection",
       "href": "../../collection.json",
       "type": "application/json",
-      "title": "GLO hori sum"
+      "title": "Site identification for Renewable Energies"
     },
     {
       "rel": "parent",
       "href": "../../collection.json",
       "type": "application/json",
-      "title": "GLO hori sum"
+      "title": "Site identification for Renewable Energies"
     }
   ],
   "assets": {

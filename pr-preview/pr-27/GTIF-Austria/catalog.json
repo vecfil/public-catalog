@@ -14,7 +14,7 @@
       "rel": "child",
       "href": "./GLO_hori_sum/collection.json",
       "type": "application/json",
-      "title": "GLO hori sum",
+      "title": "Site identification for Renewable Energies",
       "code": "GLO",
       "id": "GLO_hori_sum",
       "themes": [],
