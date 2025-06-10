@@ -1,0 +1,83 @@
+{
+  "type": "Collection",
+  "id": "GLO_hori_sum",
+  "stac_version": "1.1.0",
+  "description": "To be defined",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Austria"
+    },
+    {
+      "rel": "item",
+      "href": "./GLO_hori_sum/2023/2023-01-01T00:00:00Z.json",
+      "type": "application/geo+json",
+      "datetime": "2023-01-01T00:00:00Z",
+      "assets": [
+        "https://eox-gtif-public.s3.eu-central-1.amazonaws.com/GTIF-AT/WR02/GLO_hori_sum_2006-2023.tif"
+      ]
+    },
+    {
+      "rel": "style",
+      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/styles/WR02.json",
+      "type": "text/cog-styles",
+      "asset:keys": [
+        "GLO"
+      ]
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "GLO hori sum"
+    }
+  ],
+  "sci:doi": "",
+  "sci:citation": "",
+  "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//",
+  "themes": [],
+  "tags": [],
+  "agency": [],
+  "subcode": "GLO",
+  "endpointtype": "COG source",
+  "title": "GLO hori sum",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          10.146189699764948,
+          46.506125141798016,
+          16.533628494875593,
+          48.67412444086842
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2023-01-01T00:00:00Z",
+          "2023-01-01T00:00:00Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "assets": {
+    "legend": {
+      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//",
+      "type": "image/png",
+      "roles": [
+        "metadata"
+      ]
+    },
+    "thumbnail": {
+      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//",
+      "type": "image/png",
+      "roles": [
+        "thumbnail"
+      ]
+    }
+  }
+}
