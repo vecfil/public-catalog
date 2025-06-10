@@ -20,16 +20,7 @@
       "id": "GLO_hori_sum",
       "themes": [],
       "tags": [],
-      "agency": [],
       "subcode": "GLO"
-    },
-    {
-      "rel": "service",
-      "href": "./GLO_hori_sum/{{feature}}/collection.json",
-      "type": "application/json; profile=collection",
-      "id": "locations",
-      "method": "GET",
-      "endpoint": "STAC"
     },
     {
       "rel": "xyz",
@@ -86,13 +77,9 @@
       "title": "GTIF Austria"
     }
   ],
-  "sci:doi": "",
-  "sci:citation": "",
   "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//assets/wr02_preview.jpg",
   "themes": [],
-  "locations": true,
   "tags": [],
-  "agency": [],
   "subcode": "GLO",
   "title": "Site identification for Renewable Energies",
   "extent": {
@@ -121,7 +108,7 @@
       ]
     }
   },
-  "license": "proprietary",
+  "license": "other",
   "summaries": {
     "subcode": [
       "GLO"
@@ -131,13 +118,6 @@
     ]
   },
   "assets": {
-    "legend": {
-      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//",
-      "type": "image/png",
-      "roles": [
-        "metadata"
-      ]
-    },
     "thumbnail": {
       "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//assets/wr02_preview.jpg",
       "type": "image/png",

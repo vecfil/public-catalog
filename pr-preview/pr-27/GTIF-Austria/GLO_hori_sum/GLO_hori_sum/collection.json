@@ -34,12 +34,9 @@
       "title": "Site identification for Renewable Energies"
     }
   ],
-  "sci:doi": "",
-  "sci:citation": "",
   "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//assets/wr02_preview.jpg",
   "themes": [],
   "tags": [],
-  "agency": [],
   "subcode": "GLO",
   "endpointtype": "COG source",
   "title": "Site identification for Renewable Energies",
@@ -63,15 +60,8 @@
       ]
     }
   },
-  "license": "proprietary",
+  "license": "other",
   "assets": {
-    "legend": {
-      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//",
-      "type": "image/png",
-      "roles": [
-        "metadata"
-      ]
-    },
     "thumbnail": {
       "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//assets/wr02_preview.jpg",
       "type": "image/png",
