@@ -22,14 +22,14 @@
     },
     {
       "rel": "service",
-      "href": "https://eox-gtif-public.s3.eu-central-1.amazonaws.com/AIT/csv time series/{{feature}}.csv",
+      "href": "https://eox-gtif-public.s3.eu-central-1.amazonaws.com/GTIF-AT/AIT/A14/csv time series/{{feature}}.csv",
       "type": "text/csv",
       "id": "timeseries",
       "method": "GET"
     },
     {
       "rel": "service",
-      "href": "https://eox-gtif-public.s3.eu-central-1.amazonaws.com/AIT/geojson/{{feature}}.geojson",
+      "href": "https://eox-gtif-public.s3.eu-central-1.amazonaws.com/GTIF-AT/AIT/A14/geojson/{{feature}}.geojson",
       "type": "application/geo+json",
       "id": "reference_points",
       "method": "GET",
