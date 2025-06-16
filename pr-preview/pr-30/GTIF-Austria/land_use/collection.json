@@ -122,7 +122,7 @@
   ],
   "subcode": "LULUCF_indicator",
   "collection_group": "Capabilities",
-  "eodash:jsonform": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/forms/LULUCF_comparison_form.json",
+  "eodash:jsonform": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/forms/LULUCF_form_comparison.json",
   "eodash:vegadefinition": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/charts/LULUCF_comparison_vega_chart.json",
   "title": "Land Use, Land Use Change and Forestry (LULUCF)",
   "extent": {
@@ -160,8 +160,8 @@
   "license": "other",
   "summaries": {
     "subcode": [
-      "LULUCF",
-      "NUTS2_AT"
+      "NUTS2_AT",
+      "LULUCF"
     ],
     "themes": [
       "TBD"
