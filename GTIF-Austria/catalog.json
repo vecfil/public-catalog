@@ -34,7 +34,6 @@
       "href": "./predictive_maintenance/collection.json",
       "type": "application/json",
       "title": "Predictive Maintenance",
-      "subtitle": "",
       "code": "AIT1",
       "id": "predictive_maintenance",
       "subcode": "AIT1",

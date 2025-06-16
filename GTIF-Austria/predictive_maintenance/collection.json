@@ -16,7 +16,6 @@
       "type": "application/json",
       "title": "Predictive Maintenance",
       "endpointtype": "GeoJSON source",
-      "subtitle": "",
       "code": "AIT1",
       "id": "predictive_maintenance",
       "subcode": "AIT1"
@@ -91,7 +90,6 @@
       "title": "GTIF Austria"
     }
   ],
-  "subtitle": "",
   "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//assets/ait_predictive_maintenance_preview.jpg",
   "subcode": "AIT1",
   "eox:colorlegend": {
