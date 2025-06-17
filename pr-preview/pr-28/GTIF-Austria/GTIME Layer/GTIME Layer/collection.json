@@ -16,7 +16,7 @@
       "type": "application/geo+json",
       "datetime": "2024-01-01T00:00:00Z",
       "assets": [
-        "https://s3.spatial-services.com/gtime-layer/veg_clsn_shveg_notusedveg_filtrd_perc_3band_cog.tif"
+        "https://s3.spatial-services.com/gtime-layer/veg_clsn_shveg_notusedveg_filtrd_perc_3band_cog_repr_1.tif"
       ]
     },
     {

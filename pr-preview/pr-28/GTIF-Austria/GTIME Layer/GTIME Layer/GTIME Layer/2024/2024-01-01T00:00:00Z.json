@@ -61,7 +61,7 @@
   ],
   "assets": {
     "COG1": {
-      "href": "https://s3.spatial-services.com/gtime-layer/veg_clsn_shveg_notusedveg_filtrd_perc_3band_cog.tif",
+      "href": "https://s3.spatial-services.com/gtime-layer/veg_clsn_shveg_notusedveg_filtrd_perc_3band_cog_repr_1.tif",
       "type": "image/tiff",
       "roles": [
         "data"
