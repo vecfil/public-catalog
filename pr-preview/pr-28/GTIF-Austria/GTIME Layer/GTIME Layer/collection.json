@@ -1,0 +1,53 @@
+{
+  "type": "Collection",
+  "id": "GTIME Layer",
+  "stac_version": "1.1.0",
+  "description": "",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Austria"
+    },
+    {
+      "rel": "item",
+      "href": "./GTIME Layer/2024/2024-01-01T00:00:00Z.json",
+      "type": "application/geo+json",
+      "datetime": "2024-01-01T00:00:00Z",
+      "assets": [
+        "http://s3.spatial-services.com/gtime-layer/veg_clsn_shveg_notusedveg_filtrd_perc_3band_cog.tif"
+      ]
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "GTIME Layer"
+    }
+  ],
+  "subcode": "GTIME Layer",
+  "endpointtype": "COG source",
+  "title": "GTIME Layer",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          9,
+          44.5,
+          18,
+          49.5
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2024-01-01T00:00:00Z",
+          "2024-01-01T00:00:00Z"
+        ]
+      ]
+    }
+  },
+  "license": "other"
+}
