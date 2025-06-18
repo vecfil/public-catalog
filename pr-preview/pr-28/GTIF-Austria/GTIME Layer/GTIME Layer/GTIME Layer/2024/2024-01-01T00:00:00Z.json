@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/attribution/v0.1.0/schema.json"
+  ],
   "id": "2024-01-01T00:00:00Z",
   "geometry": {
     "type": "Polygon",
@@ -63,6 +65,7 @@
     "COG1": {
       "href": "https://s3.spatial-services.com/gtime-layer/veg_clsn_shveg_notusedveg_filtrd_perc_3band_cog_repr_1.tif",
       "type": "image/tiff",
+      "attribution": "Developed by the University of Salzburg, Department of Geoinformatics - Z_GIS & Spatial Services with funding from the Austrian Research Promotion Agency (FFG) under the Austrian Space Application Programme (ASAP) within the project INTERFACE (contract no: FO999892652) and under the Digital Twin Austria Programme within the project GTIME (contract no: FO999918383).",
       "roles": [
         "data"
       ]
