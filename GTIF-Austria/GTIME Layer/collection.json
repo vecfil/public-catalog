@@ -75,6 +75,7 @@
       "title": "GTIF Austria"
     }
   ],
+  "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/assets/thumbnail_gtime_layer.png",
   "subcode": "GTIME Layer",
   "title": "Multitemporal Vegetation Change Dynamics 2018 – 2021 – 2024",
   "extent": {
@@ -101,6 +102,9 @@
   "summaries": {
     "subcode": [
       "GTIME Layer"
+    ],
+    "thumbnail": [
+      "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/assets/thumbnail_gtime_layer.png"
     ]
   },
   "assets": {
@@ -109,6 +113,13 @@
       "type": "image/png",
       "roles": [
         "metadata"
+      ]
+    },
+    "thumbnail": {
+      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/assets/thumbnail_gtime_layer.png",
+      "type": "image/png",
+      "roles": [
+        "thumbnail"
       ]
     }
   }
