@@ -53,7 +53,7 @@
   "license": "other",
   "assets": {
     "legend": {
-      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/assets/gtime-layer-legend.png",
+      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/assets/Cube_legend_landscape_en.jpg",
       "type": "image/png",
       "roles": [
         "metadata"
