@@ -42,6 +42,15 @@
       ]
     },
     {
+      "rel": "child",
+      "href": "./GTIME Layer/collection.json",
+      "type": "application/json",
+      "title": "Multitemporal Vegetation Change Dynamics 2018 – 2021 – 2024",
+      "code": "GTIME Layer",
+      "id": "GTIME Layer",
+      "subcode": "GTIME Layer"
+    },
+    {
       "rel": "self",
       "href": "https://gtif-austria.github.io/public-catalog/GTIF-Austria/catalog.json",
       "type": "application/json"
