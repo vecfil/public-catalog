@@ -34,7 +34,7 @@
       "title": "Predictive Maintenance"
     }
   ],
-  "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//assets/ait_predictive_maintenance_preview.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/assets/ait_predictive_maintenance_preview.jpg",
   "subcode": "AIT1",
   "eox:colorlegend": {
     "title": "Ground movement",
@@ -80,7 +80,7 @@
   "license": "other",
   "assets": {
     "thumbnail": {
-      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//assets/ait_predictive_maintenance_preview.jpg",
+      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/assets/ait_predictive_maintenance_preview.jpg",
       "type": "image/png",
       "roles": [
         "thumbnail"

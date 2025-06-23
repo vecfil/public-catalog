@@ -116,7 +116,7 @@
       "title": "GTIF Austria"
     }
   ],
-  "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//assets/LULUCF_preview.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/assets/LULUCF_preview.jpg",
   "themes": [
     "Land"
   ],
@@ -128,18 +128,6 @@
   "extent": {
     "spatial": {
       "bbox": [
-        [
-          9.5,
-          44.5,
-          18.0,
-          49.9
-        ],
-        [
-          9.5,
-          44.5,
-          18.0,
-          49.9
-        ],
         [
           9.5,
           44.5,
@@ -160,8 +148,8 @@
   "license": "other",
   "summaries": {
     "subcode": [
-      "LULUCF",
-      "NUTS2_AT"
+      "NUTS2_AT",
+      "LULUCF"
     ],
     "themes": [
       "TBD"
@@ -170,12 +158,12 @@
       "Combined"
     ],
     "thumbnail": [
-      "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//assets/LULUCF_preview.jpg"
+      "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/assets/LULUCF_preview.jpg"
     ]
   },
   "assets": {
     "thumbnail": {
-      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main//assets/LULUCF_preview.jpg",
+      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/assets/LULUCF_preview.jpg",
       "type": "image/png",
       "roles": [
         "thumbnail"
