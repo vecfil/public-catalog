@@ -1,0 +1,61 @@
+{
+  "type": "Collection",
+  "id": "multitemporal-footprints",
+  "stac_version": "1.1.0",
+  "description": "Building footprints with age",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Austria"
+    },
+    {
+      "rel": "item",
+      "href": "./multitemporal-footprints/2024/2024-01-01T00:00:00Z.json",
+      "type": "application/geo+json",
+      "datetime": "2024-01-01T00:00:00Z",
+      "assets": [
+        "https://gtif-multitemporal-footprints.s3.eu-central-1.amazonaws.com/ubicube_multitemporal_footprints.geojson"
+      ]
+    },
+    {
+      "rel": "style",
+      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/styles/ubicube.json",
+      "type": "text/vector-styles",
+      "asset:keys": [
+        "ubifootprint"
+      ]
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "multitemporal-footprints"
+    }
+  ],
+  "subcode": "ubi-multitemporal",
+  "endpointtype": "GeoJSON source",
+  "title": "multitemporal-footprints",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -180,
+          -85,
+          180,
+          85
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2024-01-01T00:00:00Z",
+          "2024-01-01T00:00:00Z"
+        ]
+      ]
+    }
+  },
+  "license": "other"
+}
