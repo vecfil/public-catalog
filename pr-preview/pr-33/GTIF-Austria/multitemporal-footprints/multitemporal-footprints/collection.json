@@ -35,7 +35,7 @@
     }
   ],
   "subcode": "ubi-multitemporal",
-  "endpointtype": "GeoJSON source",
+  "endpointtype": "GeoJSON source_byoc",
   "title": "multitemporal-footprints",
   "extent": {
     "spatial": {

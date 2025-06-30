@@ -15,7 +15,7 @@
       "href": "./multitemporal-footprints/collection.json",
       "type": "application/json",
       "title": "multitemporal-footprints",
-      "endpointtype": "GeoJSON source",
+      "endpointtype": "GeoJSON source_byoc",
       "code": "ubi-multitemporal",
       "id": "multitemporal-footprints",
       "subcode": "ubi-multitemporal"
