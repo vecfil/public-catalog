@@ -42,7 +42,7 @@
   "links": [
     {
       "rel": "style",
-      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/styles/ubicube.json",
+      "href": "https://github.com/Taenja/public-assets/blob/main/assets/styles/ubicube.json",
       "type": "text/vector-styles",
       "asset:keys": [
         "ubifootprint"
