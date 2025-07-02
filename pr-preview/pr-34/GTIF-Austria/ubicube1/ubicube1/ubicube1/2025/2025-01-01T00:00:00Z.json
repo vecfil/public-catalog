@@ -1,0 +1,80 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "2025-01-01T00:00:00Z",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          12.81127393677465,
+          46.715594511938455
+        ],
+        [
+          16.914174644333855,
+          46.715594511938455
+        ],
+        [
+          16.914174644333855,
+          48.95096800088451
+        ],
+        [
+          12.81127393677465,
+          48.95096800088451
+        ],
+        [
+          12.81127393677465,
+          46.715594511938455
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    12.81127393677465,
+    46.715594511938455,
+    16.914174644333855,
+    48.95096800088451
+  ],
+  "properties": {
+    "datetime": "2025-01-01T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "style",
+      "href": "http://127.0.0.1:9091/style.json",
+      "type": "text/vector-styles",
+      "asset:keys": [
+        "ubicube"
+      ]
+    },
+    {
+      "rel": "root",
+      "href": "../../../../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Austria"
+    },
+    {
+      "rel": "collection",
+      "href": "../../collection.json",
+      "type": "application/json",
+      "title": "ubicube1"
+    },
+    {
+      "rel": "parent",
+      "href": "../../collection.json",
+      "type": "application/json",
+      "title": "ubicube1"
+    }
+  ],
+  "assets": {
+    "ubicube": {
+      "href": "https://gtif-multitemporal-footprints.s3.eu-central-1.amazonaws.com/ubicube_multitemporal_footprints.geojson",
+      "type": "application/geo+json",
+      "roles": [
+        "data"
+      ]
+    }
+  },
+  "collection": "ubicube1"
+}
