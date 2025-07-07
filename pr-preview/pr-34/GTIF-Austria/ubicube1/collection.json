@@ -16,9 +16,7 @@
       "type": "application/json",
       "title": "ubicube1",
       "endpointtype": "GeoJSON source",
-      "code": "ubicube",
-      "id": "ubicube1",
-      "subcode": "ubicube"
+      "id": "ubicube1"
     },
     {
       "rel": "xyz",
@@ -75,7 +73,6 @@
       "title": "GTIF Austria"
     }
   ],
-  "subcode": "ubicube",
   "title": "ubicube1",
   "extent": {
     "spatial": {
@@ -97,10 +94,5 @@
       ]
     }
   },
-  "license": "other",
-  "summaries": {
-    "subcode": [
-      "ubicube"
-    ]
-  }
+  "license": "other"
 }

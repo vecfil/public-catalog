@@ -15,9 +15,7 @@
       "href": "./ubicube1/collection.json",
       "type": "application/json",
       "title": "ubicube1",
-      "code": "ubicube",
-      "id": "ubicube1",
-      "subcode": "ubicube"
+      "id": "ubicube1"
     },
     {
       "rel": "self",
