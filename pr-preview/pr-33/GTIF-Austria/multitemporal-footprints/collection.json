@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "multitemporal-footprints",
   "stac_version": "1.1.0",
-  "description": "Building footprints with age",
+  "description": "Temporal building footprint data for Lower Austria to visualize construction trends over time and space.",
   "links": [
     {
       "rel": "root",
