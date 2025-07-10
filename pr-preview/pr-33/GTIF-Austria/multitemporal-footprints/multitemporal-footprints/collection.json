@@ -12,9 +12,9 @@
     },
     {
       "rel": "item",
-      "href": "./multitemporal-footprints/2025/2025-01-01T00:00:00Z.json",
+      "href": "./multitemporal-footprints/2024/2024-01-01T00:00:00Z.json",
       "type": "application/geo+json",
-      "datetime": "2025-01-01T00:00:00Z",
+      "datetime": "2024-01-01T00:00:00Z",
       "assets": [
         "https://gtif-multitemporal-footprints.s3.eu-central-1.amazonaws.com/ubicube_multitemporal_footprints.geojson"
       ]
@@ -51,8 +51,8 @@
     "temporal": {
       "interval": [
         [
-          "2025-01-01T00:00:00Z",
-          "2025-01-01T00:00:00Z"
+          "2024-01-01T00:00:00Z",
+          "2024-01-01T00:00:00Z"
         ]
       ]
     }
