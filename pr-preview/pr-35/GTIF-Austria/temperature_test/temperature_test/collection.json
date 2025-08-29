@@ -16,7 +16,7 @@
       "type": "application/geo+json",
       "datetime": "2019-06-29T15:00:00Z",
       "assets": [
-        "https://obs.eu-nl.otc.t-systems.com/gtif-austria/public/20190629_00h00_h15.tif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ZF4DNQKHYPLZN95ABGS6%2F20250829%2Feu-nl%2Fs3%2Faws4_request&X-Amz-Date=20250829T091528Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cf104a21c8d806e63ef7ecc8b70e04ebcc298b11b3b912bbde7fe3b50914deb3"
+        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/20190629_00h00_h15.tif"
       ]
     },
     {
