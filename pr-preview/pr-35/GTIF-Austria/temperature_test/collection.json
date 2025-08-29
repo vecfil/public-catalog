@@ -16,7 +16,10 @@
       "type": "application/json",
       "title": "City temperature forecast test",
       "endpointtype": "COG source",
-      "id": "temperature_test"
+      "id": "temperature_test",
+      "agency": [
+        "GeoSphere Austria"
+      ]
     },
     {
       "rel": "xyz",
@@ -73,7 +76,10 @@
       "title": "GTIF Austria"
     }
   ],
-  "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/./city_temperature_preview.png",
+  "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/city_temperature_preview.png",
+  "agency": [
+    "GeoSphere Austria"
+  ],
   "title": "City temperature forecast test",
   "extent": {
     "spatial": {
@@ -98,12 +104,12 @@
   "license": "other",
   "summaries": {
     "thumbnail": [
-      "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/./city_temperature_preview.png"
+      "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/city_temperature_preview.png"
     ]
   },
   "assets": {
     "thumbnail": {
-      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/./city_temperature_preview.png",
+      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/city_temperature_preview.png",
       "type": "image/png",
       "roles": [
         "thumbnail"
