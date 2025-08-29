@@ -41,6 +41,14 @@
   },
   "links": [
     {
+      "rel": "style",
+      "href": "https://raw.githubusercontent.com/gtif-cerulean/assets/refs/heads/main/styles/coastal_change_monitoring_style.json",
+      "type": "text/cog-styles",
+      "asset:keys": [
+        "20190629_00h00_h15"
+      ]
+    },
+    {
       "rel": "root",
       "href": "../../../../catalog.json",
       "type": "application/json",
@@ -60,13 +68,6 @@
     }
   ],
   "assets": {
-    "testcog": {
-      "href": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/testcog.tif",
-      "type": "image/tiff",
-      "roles": [
-        "data"
-      ]
-    },
     "20190629_00h00_h15": {
       "href": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/20190629_00h00_h15.tif",
       "type": "image/tiff",
