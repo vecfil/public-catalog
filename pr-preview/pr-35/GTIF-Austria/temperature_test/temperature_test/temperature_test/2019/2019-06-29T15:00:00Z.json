@@ -60,14 +60,7 @@
     }
   ],
   "assets": {
-    "20190629_00h00_h15": {
-      "href": "https://obs.eu-nl.otc.t-systems.com/gtif-austria/public/20190629_00h00_h15.tif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ZF4DNQKHYPLZN95ABGS6%2F20250829%2Feu-nl%2Fs3%2Faws4_request&X-Amz-Date=20250829T091528Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cf104a21c8d806e63ef7ecc8b70e04ebcc298b11b3b912bbde7fe3b50914deb3",
-      "type": "image/tiff",
-      "roles": [
-        "data"
-      ]
-    },
-    "": {
+    "testcog": {
       "href": " https://obs.eu-nl.otc.t-systems.com/gtif-austria/public/testcog.tif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ZF4DNQKHYPLZN95ABGS6%2F20250829%2Feu-nl%2Fs3%2Faws4_request&X-Amz-Date=20250829T092145Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=78dca352a4c710981dafd8a8acc1bd37158e3180a2b8f45b171957a4156d280b",
       "type": "image/tiff",
       "roles": [
