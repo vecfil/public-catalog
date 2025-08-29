@@ -66,6 +66,13 @@
       "roles": [
         "data"
       ]
+    },
+    "testcog": {
+      "href": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/testcog.tif",
+      "type": "image/tiff",
+      "roles": [
+        "data"
+      ]
     }
   },
   "collection": "temperature_test"
