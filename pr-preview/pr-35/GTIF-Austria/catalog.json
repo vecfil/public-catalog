@@ -15,7 +15,10 @@
       "href": "./temperature_test/collection.json",
       "type": "application/json",
       "title": "City temperature forecast test",
-      "id": "temperature_test"
+      "id": "temperature_test",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/city_temperature_preview.png"
+      ]
     },
     {
       "rel": "self",

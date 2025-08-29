@@ -27,6 +27,7 @@
       "title": "City temperature forecast test"
     }
   ],
+  "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/city_temperature_preview.png",
   "endpointtype": "COG source",
   "title": "City temperature forecast test",
   "extent": {
@@ -49,5 +50,14 @@
       ]
     }
   },
-  "license": "other"
+  "license": "other",
+  "assets": {
+    "thumbnail": {
+      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/city_temperature_preview.png",
+      "type": "image/png",
+      "roles": [
+        "thumbnail"
+      ]
+    }
+  }
 }
