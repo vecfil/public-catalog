@@ -1,0 +1,52 @@
+{
+  "type": "Collection",
+  "id": "temperature_test",
+  "stac_version": "1.1.0",
+  "description": "By integrating precise satellite-based data, air temperature is calculated on a 100-meter grid to simulate and forecast its spatial and hourly variations. The model integrates multiple high-resolution datasets to enhance forecast accuracy:\n* Satellite-based land cover data (e.g., Sentinel-2) to map surface properties and urban structures.\n* Building density and surface material analysis to account for urban heat storage and emission.\n* Vegetation and green space influence to assess cooling effects from parks and tree canopies.\n* Anthropogenic heat emissions from industry and residential heating/cooling.\n\n**Technical features**\nSpatial gridding:\t100m\nTemporal gridding:\t1 hour\nForecast range:\t+30 hours\nForecast time:\t00 UTC",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Austria"
+    },
+    {
+      "rel": "item",
+      "href": "./temperature_test/2019/2019-06-29T15:00:00Z.json",
+      "type": "application/geo+json",
+      "datetime": "2019-06-29T15:00:00Z",
+      "assets": [
+        ""
+      ]
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "City temperature forecast test"
+    }
+  ],
+  "endpointtype": "COG source",
+  "title": "City temperature forecast test",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          16.137,
+          48.048,
+          16.714,
+          48.386
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2019-06-29T15:00:00Z",
+          "2019-06-29T15:00:00Z"
+        ]
+      ]
+    }
+  },
+  "license": "other"
+}
