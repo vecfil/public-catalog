@@ -76,7 +76,7 @@
       "title": "GTIF Austria"
     }
   ],
-  "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/city_temperature_preview.png",
+  "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/city_temperature_preview.jpg",
   "agency": [
     "GeoSphere Austria"
   ],
@@ -104,12 +104,12 @@
   "license": "other",
   "summaries": {
     "thumbnail": [
-      "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/city_temperature_preview.png"
+      "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/city_temperature_preview.jpg"
     ]
   },
   "assets": {
     "thumbnail": {
-      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/city_temperature_preview.png",
+      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/city_temperature_preview.jpg",
       "type": "image/png",
       "roles": [
         "thumbnail"
