@@ -60,15 +60,15 @@
     }
   ],
   "assets": {
-    "20190629_00h00_h15": {
-      "href": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/20190629_00h00_h15.tif",
+    "testcog": {
+      "href": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/testcog.tif",
       "type": "image/tiff",
       "roles": [
         "data"
       ]
     },
-    "testcog": {
-      "href": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/testcog.tif",
+    "20190629_00h00_h15": {
+      "href": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/20190629_00h00_h15.tif",
       "type": "image/tiff",
       "roles": [
         "data"
