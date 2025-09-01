@@ -42,7 +42,7 @@
   "links": [
     {
       "rel": "style",
-      "href": "https://raw.githubusercontent.com/UndeadFairy/public-catalog/refs/heads/UndeadFairy/test1/styles/test_style.json",
+      "href": "https://raw.githubusercontent.com/UndeadFairy/public-catalog/refs/heads/UndeadFairy/test1/styles/test_style2.json",
       "type": "text/cog-styles",
       "asset:keys": [
         "01"
