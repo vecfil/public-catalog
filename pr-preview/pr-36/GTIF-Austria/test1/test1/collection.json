@@ -1,0 +1,60 @@
+{
+  "type": "Collection",
+  "id": "test1",
+  "stac_version": "1.1.0",
+  "description": "",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Austria"
+    },
+    {
+      "rel": "item",
+      "href": "./test1/2019/2019-06-29T00:00:00Z.json",
+      "type": "application/geo+json",
+      "datetime": "2019-06-29T00:00:00Z",
+      "assets": [
+        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/20190629_00h00_h15.tif"
+      ]
+    },
+    {
+      "rel": "style",
+      "href": "https://raw.githubusercontent.com/dneubauer-geosphere/public-catalog/refs/heads/dneubauer-geosphere/citytemperaturetest/styles/city_temperature_style.json",
+      "type": "text/cog-styles",
+      "asset:keys": [
+        "01"
+      ]
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "test1"
+    }
+  ],
+  "endpointtype": "COG source",
+  "title": "test1",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          11.075463125968927,
+          44.23103071527723,
+          19.28204856796547,
+          50.87933225866693
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2019-06-29T00:00:00Z",
+          "2019-06-29T00:00:00Z"
+        ]
+      ]
+    }
+  },
+  "license": "other"
+}
