@@ -69,7 +69,7 @@
   ],
   "assets": {
     "20190629_00h00_h15": {
-      "href": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/20190629_00h00_h15.tif",
+      "href": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190629_00h00_h15.tif",
       "type": "image/tiff",
       "roles": [
         "data"
