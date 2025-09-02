@@ -20,11 +20,20 @@
       ]
     },
     {
+      "rel": "item",
+      "href": "./temperature_test/2019/2019-06-29T16:00:00Z.json",
+      "type": "application/geo+json",
+      "datetime": "2019-06-29T16:00:00Z",
+      "assets": [
+        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190629_00h00_h16.tif"
+      ]
+    },
+    {
       "rel": "style",
       "href": "https://raw.githubusercontent.com/dneubauer-geosphere/public-catalog/refs/heads/dneubauer-geosphere/citytemperaturetest/styles/city_temperature_style.json",
       "type": "text/cog-styles",
       "asset:keys": [
-        "20190629_00h00_h15"
+        "20190629_00h00_h16"
       ]
     },
     {
@@ -55,7 +64,7 @@
       "interval": [
         [
           "2019-06-29T15:00:00Z",
-          "2019-06-29T15:00:00Z"
+          "2019-06-29T16:00:00Z"
         ]
       ]
     }
