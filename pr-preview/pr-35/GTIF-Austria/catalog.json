@@ -24,6 +24,13 @@
       ]
     },
     {
+      "rel": "child",
+      "href": "./cooling_degree_days/collection.json",
+      "type": "application/json",
+      "title": "Cooling Degree Days",
+      "id": "cooling_degree_days"
+    },
+    {
       "rel": "self",
       "href": "https://gtif-austria.github.io/public-catalog/GTIF-Austria/catalog.json",
       "type": "application/json"
