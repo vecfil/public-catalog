@@ -16,13 +16,16 @@
       "type": "application/json",
       "title": "City temperature forecast",
       "endpointtype": "COG source",
+      "code": "city_temperature",
       "id": "temperature",
       "tags": [
         "city_temperature"
       ],
       "agency": [
         "GeoSphere Austria"
-      ]
+      ],
+      "subcode": "city_temperature",
+      "collection_group": "city_temperature"
     },
     {
       "rel": "xyz",
@@ -86,6 +89,8 @@
   "agency": [
     "GeoSphere Austria"
   ],
+  "subcode": "city_temperature",
+  "collection_group": "city_temperature",
   "title": "City temperature forecast",
   "extent": {
     "spatial": {
@@ -109,6 +114,9 @@
   },
   "license": "other",
   "summaries": {
+    "subcode": [
+      "city_temperature"
+    ],
     "thumbnail": [
       "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/assets/city_temperature_preview.jpg"
     ]

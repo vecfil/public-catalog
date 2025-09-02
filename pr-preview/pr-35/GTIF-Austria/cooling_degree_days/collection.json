@@ -16,13 +16,16 @@
       "type": "application/json",
       "title": "Cooling Degree Days",
       "endpointtype": "COG source",
+      "code": "CDD",
       "id": "cooling_degree_days",
       "tags": [
         "city_temperature"
       ],
       "agency": [
         "GeoSphere Austria"
-      ]
+      ],
+      "subcode": "CDD",
+      "collection_group": "city_temperature"
     },
     {
       "rel": "xyz",
@@ -85,6 +88,8 @@
   "agency": [
     "GeoSphere Austria"
   ],
+  "subcode": "CDD",
+  "collection_group": "city_temperature",
   "title": "Cooling Degree Days",
   "extent": {
     "spatial": {
@@ -106,5 +111,10 @@
       ]
     }
   },
-  "license": "other"
+  "license": "other",
+  "summaries": {
+    "subcode": [
+      "CDD"
+    ]
+  }
 }

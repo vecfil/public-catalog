@@ -40,6 +40,8 @@
   "agency": [
     "GeoSphere Austria"
   ],
+  "subcode": "CDD",
+  "collection_group": "city_temperature",
   "endpointtype": "COG source",
   "title": "Cooling Degree Days",
   "extent": {
