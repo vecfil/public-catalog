@@ -19,6 +19,9 @@
       "thumbnail": [
         "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/assets/city_temperature_preview.jpg"
       ],
+      "tags": [
+        "city_temperature"
+      ],
       "agency": [
         "GeoSphere Austria"
       ]
@@ -28,7 +31,13 @@
       "href": "./cooling_degree_days/collection.json",
       "type": "application/json",
       "title": "Cooling Degree Days",
-      "id": "cooling_degree_days"
+      "id": "cooling_degree_days",
+      "tags": [
+        "city_temperature"
+      ],
+      "agency": [
+        "GeoSphere Austria"
+      ]
     },
     {
       "rel": "self",

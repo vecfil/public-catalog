@@ -16,7 +16,13 @@
       "type": "application/json",
       "title": "Cooling Degree Days",
       "endpointtype": "COG source",
-      "id": "cooling_degree_days"
+      "id": "cooling_degree_days",
+      "tags": [
+        "city_temperature"
+      ],
+      "agency": [
+        "GeoSphere Austria"
+      ]
     },
     {
       "rel": "xyz",
@@ -72,6 +78,12 @@
       "type": "application/json",
       "title": "GTIF Austria"
     }
+  ],
+  "tags": [
+    "city_temperature"
+  ],
+  "agency": [
+    "GeoSphere Austria"
   ],
   "title": "Cooling Degree Days",
   "extent": {
