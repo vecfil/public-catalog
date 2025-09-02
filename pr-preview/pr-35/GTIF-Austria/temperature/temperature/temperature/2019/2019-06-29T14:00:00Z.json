@@ -58,13 +58,13 @@
       "rel": "collection",
       "href": "../../collection.json",
       "type": "application/json",
-      "title": "City temperature forecast test"
+      "title": "City temperature forecast"
     },
     {
       "rel": "parent",
       "href": "../../collection.json",
       "type": "application/json",
-      "title": "City temperature forecast test"
+      "title": "City temperature forecast"
     }
   ],
   "assets": {
@@ -76,5 +76,5 @@
       ]
     }
   },
-  "collection": "temperature_test"
+  "collection": "temperature"
 }

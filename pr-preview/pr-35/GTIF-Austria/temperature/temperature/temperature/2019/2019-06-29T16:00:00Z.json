@@ -2,7 +2,7 @@
   "type": "Feature",
   "stac_version": "1.1.0",
   "stac_extensions": [],
-  "id": "2019-06-29T09:00:00Z",
+  "id": "2019-06-29T16:00:00Z",
   "geometry": {
     "type": "Polygon",
     "coordinates": [
@@ -37,7 +37,7 @@
     48.48
   ],
   "properties": {
-    "datetime": "2019-06-29T09:00:00Z"
+    "datetime": "2019-06-29T16:00:00Z"
   },
   "links": [
     {
@@ -45,7 +45,7 @@
       "href": "https://raw.githubusercontent.com/dneubauer-geosphere/public-catalog/refs/heads/dneubauer-geosphere/citytemperaturetest/styles/city_temperature_style.json",
       "type": "text/cog-styles",
       "asset:keys": [
-        "20190629_00h00_h09"
+        "20190629_00h00_h16"
       ]
     },
     {
@@ -58,23 +58,23 @@
       "rel": "collection",
       "href": "../../collection.json",
       "type": "application/json",
-      "title": "City temperature forecast test"
+      "title": "City temperature forecast"
     },
     {
       "rel": "parent",
       "href": "../../collection.json",
       "type": "application/json",
-      "title": "City temperature forecast test"
+      "title": "City temperature forecast"
     }
   ],
   "assets": {
-    "20190629_00h00_h09": {
-      "href": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190629_00h00_h09.tif",
+    "20190629_00h00_h16": {
+      "href": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190629_00h00_h16.tif",
       "type": "image/tiff",
       "roles": [
         "data"
       ]
     }
   },
-  "collection": "temperature_test"
+  "collection": "temperature"
 }
