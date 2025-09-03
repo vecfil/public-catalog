@@ -12,11 +12,11 @@
     },
     {
       "rel": "child",
-      "href": "./temperature/collection.json",
+      "href": "./city_temperature/collection.json",
       "type": "application/json",
       "title": "City temperature forecast",
       "code": "city_temperature",
-      "id": "temperature",
+      "id": "city_temperature",
       "subcode": "city_temperature",
       "thumbnail": [
         "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/assets/city_temperature_preview.jpg"

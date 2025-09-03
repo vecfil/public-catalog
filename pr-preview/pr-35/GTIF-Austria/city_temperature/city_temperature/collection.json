@@ -1,6 +1,6 @@
 {
   "type": "Collection",
-  "id": "temperature",
+  "id": "city_temperature",
   "stac_version": "1.1.0",
   "description": "By integrating precise satellite-based data, air temperature is calculated on a 100-meter grid to simulate and forecast its spatial and hourly variations. The model integrates multiple high-resolution datasets to enhance forecast accuracy:\n* Satellite-based land cover data (e.g., Sentinel-2) to map surface properties and urban structures.\n* Building density and surface material analysis to account for urban heat storage and emission.\n* Vegetation and green space influence to assess cooling effects from parks and tree canopies.\n* Anthropogenic heat emissions from industry and residential heating/cooling.\n\n**Technical features**\n* Spatial gridding:\t100m\n* Temporal gridding:\t1 hour\n* Forecast range:\t+30 hours\n* Forecast time:\t00 UTC",
   "links": [
@@ -12,7 +12,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T00:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T00:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T00:00:00Z",
       "assets": [
@@ -21,7 +21,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T01:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T01:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T01:00:00Z",
       "assets": [
@@ -30,7 +30,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T02:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T02:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T02:00:00Z",
       "assets": [
@@ -39,7 +39,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T03:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T03:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T03:00:00Z",
       "assets": [
@@ -48,7 +48,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T04:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T04:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T04:00:00Z",
       "assets": [
@@ -57,7 +57,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T05:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T05:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T05:00:00Z",
       "assets": [
@@ -66,7 +66,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T06:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T06:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T06:00:00Z",
       "assets": [
@@ -75,7 +75,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T07:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T07:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T07:00:00Z",
       "assets": [
@@ -84,7 +84,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T08:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T08:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T08:00:00Z",
       "assets": [
@@ -93,7 +93,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T09:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T09:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T09:00:00Z",
       "assets": [
@@ -102,7 +102,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T10:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T10:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T10:00:00Z",
       "assets": [
@@ -111,7 +111,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T11:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T11:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T11:00:00Z",
       "assets": [
@@ -120,7 +120,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T12:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T12:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T12:00:00Z",
       "assets": [
@@ -129,7 +129,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T13:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T13:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T13:00:00Z",
       "assets": [
@@ -138,7 +138,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T14:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T14:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T14:00:00Z",
       "assets": [
@@ -147,7 +147,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T15:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T15:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T15:00:00Z",
       "assets": [
@@ -156,7 +156,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T16:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T16:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T16:00:00Z",
       "assets": [
@@ -165,7 +165,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T17:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T17:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T17:00:00Z",
       "assets": [
@@ -174,7 +174,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T18:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T18:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T18:00:00Z",
       "assets": [
@@ -183,7 +183,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T19:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T19:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T19:00:00Z",
       "assets": [
@@ -192,7 +192,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T20:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T20:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T20:00:00Z",
       "assets": [
@@ -201,7 +201,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T21:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T21:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T21:00:00Z",
       "assets": [
@@ -210,7 +210,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T22:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T22:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T22:00:00Z",
       "assets": [
@@ -219,7 +219,7 @@
     },
     {
       "rel": "item",
-      "href": "./temperature/2019/2019-06-29T23:00:00Z.json",
+      "href": "./city_temperature/2019/2019-06-29T23:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2019-06-29T23:00:00Z",
       "assets": [

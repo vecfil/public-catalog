@@ -76,5 +76,5 @@
       ]
     }
   },
-  "collection": "temperature"
+  "collection": "city_temperature"
 }
