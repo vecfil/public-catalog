@@ -34,9 +34,9 @@
       "href": "./cooling_degree_days/collection.json",
       "type": "application/json",
       "title": "Cooling Degree Days",
-      "code": "CDD",
+      "code": "cooling_degree_days",
       "id": "cooling_degree_days",
-      "subcode": "CDD",
+      "subcode": "cooling_degree_days",
       "tags": [
         "city_temperature"
       ],
