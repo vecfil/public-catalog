@@ -241,7 +241,7 @@
       "title": "City temperature forecast"
     }
   ],
-  "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/assets/city_temperature_preview.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_preview.jpg",
   "tags": [
     "city_temperature"
   ],
@@ -274,7 +274,7 @@
   "license": "other",
   "assets": {
     "thumbnail": {
-      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/assets/city_temperature_preview.jpg",
+      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_preview.jpg",
       "type": "image/png",
       "roles": [
         "thumbnail"
