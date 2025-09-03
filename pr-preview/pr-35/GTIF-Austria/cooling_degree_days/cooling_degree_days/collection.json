@@ -122,7 +122,6 @@
     "GeoSphere Austria"
   ],
   "subcode": "cooling_degree_days",
-  "collection_group": "city_temperature",
   "endpointtype": "COG source",
   "title": "Cooling Degree Days",
   "extent": {

@@ -24,8 +24,7 @@
       "agency": [
         "GeoSphere Austria"
       ],
-      "subcode": "cooling_degree_days",
-      "collection_group": "city_temperature"
+      "subcode": "cooling_degree_days"
     },
     {
       "rel": "xyz",
@@ -89,7 +88,6 @@
     "GeoSphere Austria"
   ],
   "subcode": "cooling_degree_days",
-  "collection_group": "city_temperature",
   "title": "Cooling Degree Days",
   "extent": {
     "spatial": {

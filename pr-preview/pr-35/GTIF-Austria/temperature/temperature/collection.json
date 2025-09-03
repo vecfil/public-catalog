@@ -249,7 +249,6 @@
     "GeoSphere Austria"
   ],
   "subcode": "city_temperature",
-  "collection_group": "city_temperature",
   "endpointtype": "COG source",
   "title": "City temperature forecast",
   "extent": {

@@ -24,8 +24,7 @@
       "agency": [
         "GeoSphere Austria"
       ],
-      "subcode": "city_temperature",
-      "collection_group": "city_temperature"
+      "subcode": "city_temperature"
     },
     {
       "rel": "xyz",
@@ -90,7 +89,6 @@
     "GeoSphere Austria"
   ],
   "subcode": "city_temperature",
-  "collection_group": "city_temperature",
   "title": "City temperature forecast",
   "extent": {
     "spatial": {
