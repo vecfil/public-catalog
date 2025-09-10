@@ -82,6 +82,9 @@
       "endpointtype": "COG source",
       "code": "cooling_degree_days",
       "id": "cooling_degree_days",
+      "roles": [
+        "disable"
+      ],
       "tags": [
         "city_temperature"
       ],
@@ -98,6 +101,9 @@
       "endpointtype": "COG source",
       "code": "heating_degree_days",
       "id": "heating_degree_days",
+      "roles": [
+        "disable"
+      ],
       "tags": [
         "city_temperature"
       ],
