@@ -36,6 +36,9 @@
       "code": "cooling_degree_days",
       "id": "cooling_degree_days",
       "subcode": "cooling_degree_days",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/cooling_degree_days_preview.jpg"
+      ],
       "tags": [
         "city_temperature"
       ],
