@@ -115,7 +115,7 @@
       "title": "Heating Degree Days"
     }
   ],
-  "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/\"https://workspace-ui-public.example.hub.eox.at/api/public/share/public/heating_degree_days_preview.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/https://workspace-ui-public.example.hub.eox.at/api/public/share/public/heating_degree_days_preview.jpg",
   "tags": [
     "city_temperature"
   ],
@@ -148,7 +148,7 @@
   "license": "other",
   "assets": {
     "thumbnail": {
-      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/\"https://workspace-ui-public.example.hub.eox.at/api/public/share/public/heating_degree_days_preview.jpg",
+      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/https://workspace-ui-public.example.hub.eox.at/api/public/share/public/heating_degree_days_preview.jpg",
       "type": "image/png",
       "roles": [
         "thumbnail"
