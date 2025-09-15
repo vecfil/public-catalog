@@ -12,6 +12,49 @@
     },
     {
       "rel": "child",
+      "href": "./land_use/collection.json",
+      "type": "application/json",
+      "title": "Land Use, Land Use Change and Forestry (LULUCF)",
+      "code": "LULUCF_indicator",
+      "id": "land_use",
+      "themes": [
+        "Land"
+      ],
+      "subcode": "LULUCF_indicator",
+      "satellite": [
+        "Combined"
+      ],
+      "thumbnail": [
+        "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/assets/LULUCF_preview.jpg"
+      ],
+      "collection_group": "Capabilities"
+    },
+    {
+      "rel": "child",
+      "href": "./predictive_maintenance/collection.json",
+      "type": "application/json",
+      "title": "Predictive Maintenance",
+      "code": "AIT1",
+      "id": "predictive_maintenance",
+      "subcode": "AIT1",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/assets/ait_predictive_maintenance_preview.jpg"
+      ]
+    },
+    {
+      "rel": "child",
+      "href": "./GTIME Layer/collection.json",
+      "type": "application/json",
+      "title": "Multitemporal Vegetation Change Dynamics 2018 – 2021 – 2024",
+      "code": "GTIME Layer",
+      "id": "GTIME Layer",
+      "subcode": "GTIME Layer",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/assets/thumbnail_gtime_layer.png"
+      ]
+    },
+    {
+      "rel": "child",
       "href": "./city_temperature/collection.json",
       "type": "application/json",
       "title": "City temperature forecast",
@@ -19,7 +62,7 @@
       "id": "city_temperature",
       "subcode": "city_temperature",
       "thumbnail": [
-        "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_preview2.jpg"
+        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_preview2.jpg"
       ],
       "tags": [
         "city_temperature"
@@ -37,7 +80,7 @@
       "id": "cooling_degree_days",
       "subcode": "cooling_degree_days",
       "thumbnail": [
-        "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/cooling_degree_days_preview.jpg"
+        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/cooling_degree_days_preview.jpg"
       ],
       "tags": [
         "city_temperature"
@@ -55,7 +98,7 @@
       "id": "heating_degree_days",
       "subcode": "heating_degree_days",
       "thumbnail": [
-        "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/https://workspace-ui-public.example.hub.eox.at/api/public/share/public/heating_degree_days_preview.jpg"
+        "https://workspace-ui-public.example.hub.eox.at/api/public/share/public/heating_degree_days_preview.jpg"
       ],
       "tags": [
         "city_temperature"
