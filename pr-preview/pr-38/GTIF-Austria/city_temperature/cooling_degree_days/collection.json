@@ -11,96 +11,6 @@
       "title": "GTIF Austria"
     },
     {
-      "rel": "item",
-      "href": "./cooling_degree_days/2019/2019-06-24T00:00:00Z.json",
-      "type": "application/geo+json",
-      "datetime": "2019-06-24T00:00:00Z",
-      "assets": [
-        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190624_00h00_h00.tif"
-      ]
-    },
-    {
-      "rel": "item",
-      "href": "./cooling_degree_days/2019/2019-06-25T00:00:00Z.json",
-      "type": "application/geo+json",
-      "datetime": "2019-06-25T00:00:00Z",
-      "assets": [
-        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190625_00h00_h00.tif"
-      ]
-    },
-    {
-      "rel": "item",
-      "href": "./cooling_degree_days/2019/2019-06-26T00:00:00Z.json",
-      "type": "application/geo+json",
-      "datetime": "2019-06-26T00:00:00Z",
-      "assets": [
-        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190626_00h00_h00.tif"
-      ]
-    },
-    {
-      "rel": "item",
-      "href": "./cooling_degree_days/2019/2019-06-27T00:00:00Z.json",
-      "type": "application/geo+json",
-      "datetime": "2019-06-27T00:00:00Z",
-      "assets": [
-        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190627_00h00_h00.tif"
-      ]
-    },
-    {
-      "rel": "item",
-      "href": "./cooling_degree_days/2019/2019-06-28T00:00:00Z.json",
-      "type": "application/geo+json",
-      "datetime": "2019-06-28T00:00:00Z",
-      "assets": [
-        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190628_00h00_h00.tif"
-      ]
-    },
-    {
-      "rel": "item",
-      "href": "./cooling_degree_days/2019/2019-06-29T00:00:00Z.json",
-      "type": "application/geo+json",
-      "datetime": "2019-06-29T00:00:00Z",
-      "assets": [
-        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190629_00h00_h00.tif"
-      ]
-    },
-    {
-      "rel": "item",
-      "href": "./cooling_degree_days/2019/2019-06-30T00:00:00Z.json",
-      "type": "application/geo+json",
-      "datetime": "2019-06-30T00:00:00Z",
-      "assets": [
-        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190630_00h00_h00.tif"
-      ]
-    },
-    {
-      "rel": "item",
-      "href": "./cooling_degree_days/2019/2019-07-01T00:00:00Z.json",
-      "type": "application/geo+json",
-      "datetime": "2019-07-01T00:00:00Z",
-      "assets": [
-        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190701_00h00_h00.tif"
-      ]
-    },
-    {
-      "rel": "item",
-      "href": "./cooling_degree_days/2019/2019-07-02T00:00:00Z.json",
-      "type": "application/geo+json",
-      "datetime": "2019-07-02T00:00:00Z",
-      "assets": [
-        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190702_00h00_h00.tif"
-      ]
-    },
-    {
-      "rel": "item",
-      "href": "./cooling_degree_days/2019/2019-07-03T00:00:00Z.json",
-      "type": "application/geo+json",
-      "datetime": "2019-07-03T00:00:00Z",
-      "assets": [
-        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190703_00h00_h00.tif"
-      ]
-    },
-    {
       "rel": "style",
       "href": "https://raw.githubusercontent.com/dneubauer-geosphere/public-catalog/refs/heads/dneubauer-geosphere/citytemperatureoneindicator/styles/cooling_degree_days_style.json",
       "type": "text/cog-styles",
@@ -112,7 +22,7 @@
       "rel": "parent",
       "href": "../collection.json",
       "type": "application/json",
-      "title": "City temperature forecast"
+      "title": "Temperature Forecast, Cooling Degree Days for Cities in Austria"
     }
   ],
   "tags": [
@@ -144,5 +54,15 @@
       ]
     }
   },
-  "license": "other"
+  "license": "other",
+  "assets": {
+    "geoparquet": {
+      "href": "./items.parquet",
+      "type": "application/vnd.apache.parquet",
+      "title": "GeoParquet Items",
+      "roles": [
+        "collection-mirror"
+      ]
+    }
+  }
 }
