@@ -81,7 +81,7 @@
       "title": "GTIF Austria"
     }
   ],
-  "thumbnail": "https://workspace-ui-public.example.hub.eox.at/api/public/share/public/heating_degree_days_preview.jpg",
+  "thumbnail": "https://workspace-ui-public.example.hub.eox.at/api/public/share/public/heating_degree_days_preview.png",
   "tags": [
     "city_temperature"
   ],
@@ -122,12 +122,12 @@
       "heating_degree_days"
     ],
     "thumbnail": [
-      "https://workspace-ui-public.example.hub.eox.at/api/public/share/public/heating_degree_days_preview.jpg"
+      "https://workspace-ui-public.example.hub.eox.at/api/public/share/public/heating_degree_days_preview.png"
     ]
   },
   "assets": {
     "thumbnail": {
-      "href": "https://workspace-ui-public.example.hub.eox.at/api/public/share/public/heating_degree_days_preview.jpg",
+      "href": "https://workspace-ui-public.example.hub.eox.at/api/public/share/public/heating_degree_days_preview.png",
       "type": "image/png",
       "roles": [
         "thumbnail"

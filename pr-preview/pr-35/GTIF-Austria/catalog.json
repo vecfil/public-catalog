@@ -80,7 +80,7 @@
       "id": "cooling_degree_days",
       "subcode": "cooling_degree_days",
       "thumbnail": [
-        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/cooling_degree_days_preview.jpg"
+        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/cooling_degree_days_preview.png"
       ],
       "tags": [
         "city_temperature"
@@ -98,7 +98,7 @@
       "id": "heating_degree_days",
       "subcode": "heating_degree_days",
       "thumbnail": [
-        "https://workspace-ui-public.example.hub.eox.at/api/public/share/public/heating_degree_days_preview.jpg"
+        "https://workspace-ui-public.example.hub.eox.at/api/public/share/public/heating_degree_days_preview.png"
       ],
       "tags": [
         "city_temperature"
