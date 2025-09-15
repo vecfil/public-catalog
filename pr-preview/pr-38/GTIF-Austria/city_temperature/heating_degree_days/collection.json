@@ -25,7 +25,7 @@
       "title": "Temperature Forecast, Cooling/Heating Degree Days for Cities in Austria"
     }
   ],
-  "thumbnail": "https://workspace-ui-public.example.hub.eox.at/api/public/share/public/heating_degree_days_preview.png",
+  "thumbnail": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/heating_degree_days_preview.png",
   "tags": [
     "city_temperature"
   ],
@@ -66,7 +66,7 @@
       ]
     },
     "thumbnail": {
-      "href": "https://workspace-ui-public.example.hub.eox.at/api/public/share/public/heating_degree_days_preview.png",
+      "href": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/heating_degree_days_preview.png",
       "type": "image/png",
       "roles": [
         "thumbnail"
