@@ -62,7 +62,6 @@
       "id": "city_temperature",
       "subcode": "city_temperature_indicator",
       "thumbnail": [
-        "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/do not use with indicator https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/cooling_degree_days_preview.png",
         "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_preview2.png"
       ],
       "collection_group": "Capabilities"

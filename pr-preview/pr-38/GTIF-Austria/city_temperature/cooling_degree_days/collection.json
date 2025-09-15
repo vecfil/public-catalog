@@ -25,7 +25,6 @@
       "title": "Temperature Forecast, Cooling/Heating Degree Days for Cities in Austria"
     }
   ],
-  "thumbnail": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/do not use with indicator https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/cooling_degree_days_preview.png",
   "tags": [
     "city_temperature"
   ],
@@ -63,13 +62,6 @@
       "title": "GeoParquet Items",
       "roles": [
         "collection-mirror"
-      ]
-    },
-    "thumbnail": {
-      "href": "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/do not use with indicator https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/cooling_degree_days_preview.png",
-      "type": "image/png",
-      "roles": [
-        "thumbnail"
       ]
     }
   }
