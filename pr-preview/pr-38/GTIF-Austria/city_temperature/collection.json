@@ -121,7 +121,7 @@
   ],
   "subcode": "city_temperature_indicator",
   "collection_group": "Capabilities",
-  "title": "Temperature Forecast, Cooling Degree Days for Cities in Austria",
+  "title": "Temperature Forecast, Cooling/Heating Degree Days for Cities in Austria",
   "extent": {
     "spatial": {
       "bbox": [
@@ -164,8 +164,8 @@
   "summaries": {
     "subcode": [
       "heating_degree_days",
-      "cooling_degree_days",
-      "city_temperature"
+      "city_temperature",
+      "cooling_degree_days"
     ],
     "thumbnail": [
       "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_preview.jpg"

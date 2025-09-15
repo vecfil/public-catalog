@@ -57,7 +57,7 @@
       "rel": "child",
       "href": "./city_temperature/collection.json",
       "type": "application/json",
-      "title": "Temperature Forecast, Cooling Degree Days for Cities in Austria",
+      "title": "Temperature Forecast, Cooling/Heating Degree Days for Cities in Austria",
       "code": "city_temperature_indicator",
       "id": "city_temperature",
       "subcode": "city_temperature_indicator",

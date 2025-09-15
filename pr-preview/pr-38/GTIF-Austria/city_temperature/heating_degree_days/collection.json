@@ -22,7 +22,7 @@
       "rel": "parent",
       "href": "../collection.json",
       "type": "application/json",
-      "title": "Temperature Forecast, Cooling Degree Days for Cities in Austria"
+      "title": "Temperature Forecast, Cooling/Heating Degree Days for Cities in Austria"
     }
   ],
   "tags": [
