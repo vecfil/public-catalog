@@ -1,14 +1,22 @@
 {
   "type": "Collection",
-  "id": "Data Editor Test Collect",
+  "id": "Data_Editor_Tutorial",
   "stac_version": "1.1.0",
-  "description": "",
+  "description": "This collection is to demonstrate the Data Editor.",
   "links": [
     {
       "rel": "root",
       "href": "../catalog.json",
       "type": "application/json",
       "title": "GTIF Austria"
+    },
+    {
+      "rel": "child",
+      "href": "./Data_Editor_Tutorial/collection.json",
+      "type": "application/json",
+      "title": "Data Editor Test 1",
+      "endpointtype": "COG source",
+      "id": "Data_Editor_Tutorial"
     },
     {
       "rel": "xyz",
@@ -65,23 +73,29 @@
       "title": "GTIF Austria"
     }
   ],
-  "title": "Data Editor Test Collect",
+  "title": "Data Editor Test 1",
   "extent": {
     "spatial": {
       "bbox": [
         [
-          -180.0,
-          -90.0,
-          180.0,
-          90.0
+          14.814043690350857,
+          46.19139468138212,
+          17.921904623329205,
+          49.824527884723004
+        ],
+        [
+          14.814043690350857,
+          46.19139468138212,
+          17.921904623329205,
+          49.824527884723004
         ]
       ]
     },
     "temporal": {
       "interval": [
         [
-          "2025-09-16T14:47:12.873008Z",
-          null
+          "2025-01-01T00:00:00Z",
+          "2025-01-01T00:00:00Z"
         ]
       ]
     }

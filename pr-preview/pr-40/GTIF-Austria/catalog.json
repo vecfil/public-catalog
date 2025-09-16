@@ -55,10 +55,10 @@
     },
     {
       "rel": "child",
-      "href": "./Data Editor Test Collect/collection.json",
+      "href": "./Data_Editor_Tutorial/collection.json",
       "type": "application/json",
-      "title": "Data Editor Test Collect",
-      "id": "Data Editor Test Collect"
+      "title": "Data Editor Test 1",
+      "id": "Data_Editor_Tutorial"
     },
     {
       "rel": "self",

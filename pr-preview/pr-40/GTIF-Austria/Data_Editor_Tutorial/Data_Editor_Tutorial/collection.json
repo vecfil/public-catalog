@@ -1,0 +1,61 @@
+{
+  "type": "Collection",
+  "id": "Data_Editor_Tutorial",
+  "stac_version": "1.1.0",
+  "description": "This collection is to demonstrate the Data Editor.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Austria"
+    },
+    {
+      "rel": "style",
+      "href": "https://workspace-ui-public.gtif-at-sc.hub-otc.eox.at/api/public/share/public-4wazei3y-02//tutorial-files/style_example.json",
+      "type": "text/cog-styles",
+      "asset:keys": [
+        "Tutorial_COG_Ressource"
+      ]
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Data Editor Test 1"
+    }
+  ],
+  "endpointtype": "COG source",
+  "title": "Data Editor Test 1",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          14.814043690350857,
+          46.19139468138212,
+          17.921904623329205,
+          49.824527884723004
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2025-01-01T00:00:00Z",
+          "2025-01-01T00:00:00Z"
+        ]
+      ]
+    }
+  },
+  "license": "other",
+  "assets": {
+    "geoparquet": {
+      "href": "./items.parquet",
+      "type": "application/vnd.apache.parquet",
+      "title": "GeoParquet Items",
+      "roles": [
+        "collection-mirror"
+      ]
+    }
+  }
+}
