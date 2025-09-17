@@ -1,0 +1,61 @@
+{
+  "type": "Collection",
+  "id": "energy-dashboard-integration",
+  "stac_version": "1.1.0",
+  "description": "This collection gives an overview over different key metrics regarding renewable energy generation in Austria. It is an integration from the information provided on [Energie.gv.at](https://www.energie.gv.at). (Source: Energiebilanz der Statistik Austria 2023)",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Austria"
+    },
+    {
+      "rel": "style",
+      "href": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-08-BMK-Energy-Dashboard-Integration/styles.json",
+      "type": "text/vector-styles",
+      "asset:keys": [
+        "geojsonfile"
+      ]
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Power generation by renewable energy sources per federal state"
+    }
+  ],
+  "endpointtype": "GeoJSON source",
+  "title": "Power generation by renewable energy sources per federal state",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          9.57871316243467,
+          46.224704537639916,
+          17.358516490178257,
+          49.04515814367677
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-01-01T00:00:00Z",
+          "2020-01-01T00:00:00Z"
+        ]
+      ]
+    }
+  },
+  "license": "other",
+  "assets": {
+    "geoparquet": {
+      "href": "./items.parquet",
+      "type": "application/vnd.apache.parquet",
+      "title": "GeoParquet Items",
+      "roles": [
+        "collection-mirror"
+      ]
+    }
+  }
+}
