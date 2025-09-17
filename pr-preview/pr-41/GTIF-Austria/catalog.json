@@ -57,7 +57,7 @@
       "rel": "child",
       "href": "./energy-dashboard-integration/collection.json",
       "type": "application/json",
-      "title": "energy-dashboard-integration",
+      "title": "Power generation by renewable energy sources per federal state",
       "id": "energy-dashboard-integration"
     },
     {

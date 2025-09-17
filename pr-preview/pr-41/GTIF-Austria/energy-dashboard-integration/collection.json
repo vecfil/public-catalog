@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "energy-dashboard-integration",
   "stac_version": "1.1.0",
-  "description": "",
+  "description": "This collection gives an overview over different key metrics regarding renewable energy generation in Austria. It is an integration from the information provided on [Energie.gv.at](https://www.energie.gv.at). (Source: Energiebilanz der Statistik Austria 2023)",
   "links": [
     {
       "rel": "root",
@@ -65,7 +65,7 @@
       "title": "GTIF Austria"
     }
   ],
-  "title": "energy-dashboard-integration",
+  "title": "Power generation by renewable energy sources per federal state",
   "extent": {
     "spatial": {
       "bbox": [
@@ -80,7 +80,7 @@
     "temporal": {
       "interval": [
         [
-          "2025-09-17T08:38:18.517560Z",
+          "2025-09-17T08:42:27.318271Z",
           null
         ]
       ]
