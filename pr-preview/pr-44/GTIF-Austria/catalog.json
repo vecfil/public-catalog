@@ -67,13 +67,6 @@
       "collection_group": "Capabilities"
     },
     {
-      "rel": "child",
-      "href": "./DTA Snow Water Equivalent/collection.json",
-      "type": "application/json",
-      "title": "DTA Snow Water Equivalent",
-      "id": "DTA Snow Water Equivalent"
-    },
-    {
       "rel": "self",
       "href": "https://gtif-austria.github.io/public-catalog/GTIF-Austria/catalog.json",
       "type": "application/json"
