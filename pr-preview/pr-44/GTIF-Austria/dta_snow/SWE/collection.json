@@ -1,0 +1,88 @@
+{
+  "type": "Collection",
+  "id": "SWE",
+  "stac_version": "1.1.0",
+  "description": "Snow Water Equivalent, in mm, represents the depth of water that would result if the snow mass melted completely ([Fierz et al., 2009](https://unesdoc.unesco.org/ark:/48223/pf0000186462)). Generated daily based on the distributed full energy balance physical model GEOtop ([Endrizzi et al., 2014](https://gmd.copernicus.org/articles/7/2831/2014/gmd-7-2831-2014.html)).",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Austria"
+    },
+    {
+      "rel": "wms",
+      "href": "https://services.sentinel-hub.com/ogc/wms/None",
+      "type": "image/png",
+      "title": "SWE",
+      "wms:layers": [
+        "SWE"
+      ],
+      "role": [
+        "data"
+      ]
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "DTA Snow Products"
+    }
+  ],
+  "eox:colorlegend": {
+    "domain": [
+      0,
+      2500
+    ],
+    "range": [
+      "xFFFFFF",
+      "0xF7FBFF",
+      "0xC9DBF0",
+      "0xA3CAE2",
+      "0x75AFD8",
+      "0x5D9DCE",
+      "0x5093C8",
+      "0x3371B8",
+      "0x2962B3",
+      "0x1E529F",
+      "0x163982",
+      "0x13316C"
+    ],
+    "scaleType": "continuous",
+    "tickFormat": ".0f",
+    "title": "SWE / mm"
+  },
+  "endpointtype": "Sentinel Hub WMS",
+  "title": "Snow Water Equivalent (SWE)",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -180,
+          -85,
+          180,
+          85
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2020-01-01T00:00:00Z",
+          "2021-12-31T00:00:00Z"
+        ]
+      ]
+    }
+  },
+  "license": "other",
+  "assets": {
+    "geoparquet": {
+      "href": "./items.parquet",
+      "type": "application/vnd.apache.parquet",
+      "title": "GeoParquet Items",
+      "roles": [
+        "collection-mirror"
+      ]
+    }
+  }
+}

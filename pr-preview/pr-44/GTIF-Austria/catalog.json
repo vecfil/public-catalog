@@ -67,6 +67,21 @@
       "collection_group": "Capabilities"
     },
     {
+      "rel": "child",
+      "href": "./dta_snow/collection.json",
+      "type": "application/json",
+      "title": "DTA Snow Products",
+      "code": "DTA_indicator",
+      "id": "dta_snow",
+      "themes": [
+        "Land",
+        "Snow",
+        "Cryosphere"
+      ],
+      "subcode": "DTA_indicator",
+      "collection_group": "Capabilities"
+    },
+    {
       "rel": "self",
       "href": "https://gtif-austria.github.io/public-catalog/GTIF-Austria/catalog.json",
       "type": "application/json"
