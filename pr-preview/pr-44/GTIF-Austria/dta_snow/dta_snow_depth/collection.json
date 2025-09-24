@@ -1,8 +1,8 @@
 {
   "type": "Collection",
-  "id": "SWE",
+  "id": "dta_snow_depth",
   "stac_version": "1.1.0",
-  "description": "Snow Water Equivalent, in mm, represents the depth of water that would result if the snow mass melted completely ([Fierz et al., 2009](https://unesdoc.unesco.org/ark:/48223/pf0000186462)). Generated daily based on the distributed full energy balance physical model GEOtop ([Endrizzi et al., 2014](https://gmd.copernicus.org/articles/7/2831/2014/gmd-7-2831-2014.html)).",
+  "description": "Snow depth, in cm, represents the total height of the snowpack, i.e., the vertical distance between the terrain and the snow surface ([Fierz et al., 2009](https://unesdoc.unesco.org/ark:/48223/pf0000186462)). Generated daily based on the distributed full energy balance physical model GEOtop ([Endrizzi et al., 2014](https://gmd.copernicus.org/articles/7/2831/2014/gmd-7-2831-2014.html)).",
   "links": [
     {
       "rel": "root",
@@ -14,9 +14,9 @@
       "rel": "wms",
       "href": "https://services.sentinel-hub.com/ogc/wms/None",
       "type": "image/png",
-      "title": "SWE",
+      "title": "dta_snow_depth",
       "wms:layers": [
-        "SWE"
+        "HS"
       ],
       "role": [
         "data"
@@ -32,28 +32,18 @@
   "eox:colorlegend": {
     "domain": [
       0,
-      2500
+      250
     ],
     "range": [
-      "xFFFFFF",
-      "0xF7FBFF",
-      "0xC9DBF0",
-      "0xA3CAE2",
-      "0x75AFD8",
-      "0x5D9DCE",
-      "0x5093C8",
-      "0x3371B8",
-      "0x2962B3",
-      "0x1E529F",
-      "0x163982",
-      "0x13316C"
+      "#ffffff",
+      "#08519c"
     ],
     "scaleType": "continuous",
     "tickFormat": ".0f",
-    "title": "SWE / mm"
+    "title": "HS / cm"
   },
   "endpointtype": "Sentinel Hub WMS",
-  "title": "Snow Water Equivalent (SWE)",
+  "title": "Snow Depth",
   "extent": {
     "spatial": {
       "bbox": [

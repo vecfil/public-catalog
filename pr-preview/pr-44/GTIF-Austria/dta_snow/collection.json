@@ -12,19 +12,19 @@
     },
     {
       "rel": "child",
-      "href": "./SWE/collection.json",
+      "href": "./dta_snow_water_equivalent/collection.json",
       "type": "application/json",
       "title": "Snow Water Equivalent (SWE)",
       "endpointtype": "Sentinel Hub WMS",
-      "id": "SWE"
+      "id": "dta_snow_water_equivalent"
     },
     {
       "rel": "child",
-      "href": "./Sentinel Hub WMS/collection.json",
+      "href": "./dta_snow_depth/collection.json",
       "type": "application/json",
       "title": "Snow Depth",
       "endpointtype": "Sentinel Hub WMS",
-      "id": "Sentinel Hub WMS"
+      "id": "dta_snow_depth"
     },
     {
       "rel": "xyz",
