@@ -5,12 +5,12 @@
   "Resources": [
     {
       "Name": "GeoJSON source",
-      "Style": "https://hub-otc.eox.at/services/eoxhub-gateway/gtif-austria/workspace-ui/files/public/WR-07-Geothermal-Energy-Potential-Assessment/th_cond_st.json",
+      "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/th_cond_st.json",
       "Bbox": [
-        9.043330127674512,
-        46.078697048162596,
-        17.840827986583033,
-        49.042156796000896
+        8.266888395801505,
+        44.90785830355285,
+        17.63380275837066,
+        49.79098799156065
       ],
       "TimeEntries": [
         {
@@ -18,7 +18,7 @@
           "Assets": [
             {
               "Identifier": "GeoJSON file",
-              "File": "https://hub-otc.eox.at/services/eoxhub-gateway/gtif-austria/workspace-ui/files/public/WR-07-Geothermal-Energy-Potential-Assessment/thermal_conductivity_2024_3857_1km.tif"
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/thermal_conductivity_2024_3857_1km.tif "
             }
           ]
         }
