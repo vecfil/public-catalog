@@ -7,17 +7,17 @@
       "Name": "GeoJSON source",
       "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/th_cond_st.json",
       "Bbox": [
-        8.266888395801505,
-        44.90785830355285,
-        17.63380275837066,
-        49.79098799156065
+        8.512878507084203,
+        44.93938504277426,
+        18.780147090944837,
+        50.267684029762655
       ],
       "TimeEntries": [
         {
           "Time": "2024",
           "Assets": [
             {
-              "Identifier": "GeoJSON file",
+              "Identifier": "geoTIFF file",
               "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/thermal_conductivity_2024_3857_1km.tif "
             }
           ]
