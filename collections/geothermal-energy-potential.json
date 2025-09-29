@@ -5,7 +5,7 @@
   "Resources": [
     {
       "Name": "COG source",
-      "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/WR-07-Geothermal-Energy-Potential-Assessment/th_diff_st.json",
+      "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/th_diff_st.json",
       "Bbox": [
         8.561280520113318,
         44.9533874238847,
@@ -17,7 +17,7 @@
           "Time": "2024",
           "Assets": [
             {
-              "Identifier": "COG file",
+              "Identifier": "Cloud Optimized Geotiff (COG) Source",
               "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/thermal_diffusivity_2024_3857_1km.tif "
             }
           ]
