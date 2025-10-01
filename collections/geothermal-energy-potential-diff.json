@@ -20,6 +20,10 @@
             {
               "Identifier": "Cloud Optimized Geotiff (COG) Source",
               "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/thermal_diffusivity_2024_3857_1km.tif "
+            },
+            {
+              "Identifier": "Cloud Optimized Geotiff (COG) Source",
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/thermal_conductivity_2024_3857_1km.tif "
             }
           ]
         }
