@@ -15,7 +15,7 @@
           "Assets": [
             {
               "Identifier": "overview",
-              "File": "https://eox-gtif-public.s3.eu-central-1.amazonaws.com/AIT/A14_overview.geojson"
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-10-Transport-Infrastructure-Predictive-Maintenance keyboard_arrow_right/v2/A14_overview.geojson"
             }
           ]
         }
@@ -54,13 +54,13 @@
     "EndPoints": [
       {
         "Identifier": "timeseries",
-        "Url": "https://eox-gtif-public.s3.eu-central-1.amazonaws.com/AIT/csv time series/{{feature}}.csv",
+        "Url": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-10-Transport-Infrastructure-Predictive-Maintenance keyboard_arrow_right/v2/csv_single/{{feature}}.csv",
         "Type": "text/csv",
         "Method": "GET"
       },
       {
         "Identifier": "reference_points",
-        "Url": "https://eox-gtif-public.s3.eu-central-1.amazonaws.com/AIT/geojson/{{feature}}.geojson",
+        "Url": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-10-Transport-Infrastructure-Predictive-Maintenance keyboard_arrow_right/v2/geojson_single/{{feature}}.geojson",
         "Type": "application/geo+json",
         "Flatstyle": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/styles/AIT1_subfeatures.json"
       }
