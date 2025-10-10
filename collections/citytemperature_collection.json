@@ -7,10 +7,10 @@
       "Name": "COG source",
       "Style": "",
       "Bbox": [
-        16.04,
-        47.94,
-        16.7,
-        48.48
+        "",
+        "",
+        "",
+        ""
       ],
       "TimeEntries": [],
       "ParquetSource": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-04-Temperature-Forecast-2019/city_temperature_timeseries.parquet"
