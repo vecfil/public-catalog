@@ -7,10 +7,10 @@
       "Name": "COG source",
       "Style": "https://raw.githubusercontent.com/dneubauer-geosphere/public-catalog/refs/heads/dneubauer-geosphere/citytemperatureoneindicator/styles/heating_degree_days_style.json",
       "Bbox": [
-        16.04,
-        47.94,
-        16.7,
-        48.48
+        "",
+        "",
+        "",
+        ""
       ],
       "TimeEntries": [
         {
