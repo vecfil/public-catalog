@@ -5,12 +5,12 @@
   "Resources": [
     {
       "Name": "COG source",
-      "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/geo_pot_N2K.json",
+      "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/geo_pot_fin.json",
       "Bbox": [
-        9.226830868419448,
-        45.71980544585128,
-        17.638568678143972,
-        49.154020744309854
+        8.979861011524196,
+        45.19668899273538,
+        17.994653933343773,
+        49.439275074944625
       ],
       "TimeEntries": [
         {
@@ -18,11 +18,11 @@
           "Assets": [
             {
               "Identifier": "conductivity",
-              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/thermal_conductivity_2024_3857.tif"
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/converted/thermal_conductivity_2024_3857_COG.tif"
             },
             {
-              "Identifier": "conductivity_N2K",
-              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/thermal_conductivity_2024_N2K.tif"
+              "Identifier": "Natura2000",
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/converted/Natura2000_Austria_COG_3857_COG_1km.tif"
             }
           ]
         }
