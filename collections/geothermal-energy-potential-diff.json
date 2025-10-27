@@ -6,7 +6,7 @@
   "Resources": [
     {
       "Name": "COG source",
-      "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/th_diff_st.json",
+      "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/geo_pot.json",
       "Bbox": [
         8.561280520113318,
         44.9533874238847,
@@ -19,7 +19,7 @@
           "Assets": [
             {
               "Identifier": "Cloud Optimized Geotiff (COG) Source",
-              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/thermal_diffusivity_2024_3857_1km.tif "
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/converted/thermal_conductivity_2024_3857_COG.tif"
             }
           ]
         }
@@ -27,7 +27,7 @@
     },
     {
       "Name": "COG source",
-      "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/th_cond_st.json",
+      "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/converted/thermal_conductivity_2024_3857_N2K_COG.tif",
       "Bbox": [
         8.561280520113318,
         44.9533874238847,
