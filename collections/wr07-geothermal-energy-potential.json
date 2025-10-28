@@ -18,7 +18,7 @@
           "Assets": [
             {
               "Identifier": "conductivity",
-              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/v1/cond_best_stu_eu_65_n2k_24_3035_1km_3857_1km_COG.tif"
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/converted/thermal_conductivity_2024_3857_COG.tif"
             },
             {
               "Identifier": "Natura2000",
