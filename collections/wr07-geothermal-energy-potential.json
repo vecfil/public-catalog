@@ -27,6 +27,27 @@
           ]
         }
       ]
+    },
+    {
+      "Name": "GeoJSON source",
+      "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/v1/vector_style.json",
+      "Bbox": [
+        8.450306461994217,
+        44.97763832480591,
+        18.86986225538258,
+        49.780070568487545
+      ],
+      "TimeEntries": [
+        {
+          "Time": "2024",
+          "Assets": [
+            {
+              "Identifier": "vector file ",
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/Austria_cond_24.geojson"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
