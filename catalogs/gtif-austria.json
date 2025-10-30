@@ -11,7 +11,8 @@
     "ait_predictive_maintenance",
     "gtime-layer",
     "city_temperature_indicator",
-    "multitemporal-footprints",
-    "geothermal_energy_potential"
+    "wr07-geothermal-energy-potential",
+    "geothermal_energy_potential",
+    "multitemporal-footprints"
   ]
 }
