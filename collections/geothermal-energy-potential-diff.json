@@ -19,11 +19,11 @@
           "Assets": [
             {
               "Identifier": "DIffusivity",
-              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/v1/best_diff_stu_gee_65_n2k_3857_1km_COG.tif"
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/test/best_diff_stu_gee_65_n2k_3857_1km_COG_matched.tif"
             },
             {
               "Identifier": "Natura2000",
-              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/NK2_3035_1km_24_3035_COG_1_matched.tif"
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/test/NK2_3035_1km_24_3035_1km_3857_1km_COG_matched.tif"
             }
           ]
         }
