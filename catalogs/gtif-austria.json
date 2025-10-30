@@ -12,6 +12,7 @@
     "gtime-layer",
     "city_temperature_indicator",
     "wr07-geothermal-energy-potential",
-    "geothermal_energy_potential"
+    "geothermal_energy_potential",
+    "multitemporal-footprints"
   ]
 }
