@@ -6,7 +6,7 @@
   "Resources": [
     {
       "Name": "COG source",
-      "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/geo_pot_fin2.json",
+      "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/geo_pot_fin.json",
       "Bbox": [
         8.561280520113318,
         44.9533874238847,
@@ -18,12 +18,12 @@
           "Time": "2024",
           "Assets": [
             {
-              "Identifier": "DIffusivity",
+              "Identifier": "diIffusivity",
               "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/v2/best_diff_stu_gee_65_n2k_3857_1km_COG.tif"
             },
             {
               "Identifier": "Natura2000",
-              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/v2/NK2_3035_1km_24_3035_1km_3857_1km_COG_matched.tif"
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/NK2_3035_1km_24_3035_COG_1_matched.tif"
             }
           ]
         }
