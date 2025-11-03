@@ -19,7 +19,7 @@
           "Assets": [
             {
               "Identifier": "DIffusivity",
-              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/thermal_diffusivity_2024_3857_1km.tif"
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/v2/best_diff_stu_gee_65_n2k_3857_1km_COG.tif"
             },
             {
               "Identifier": "Natura2000",
