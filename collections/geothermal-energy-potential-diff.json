@@ -6,7 +6,7 @@
   "Resources": [
     {
       "Name": "COG source",
-      "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/geo_pot_fin.json",
+      "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/geo_pot_fin2.json",
       "Bbox": [
         8.561280520113318,
         44.9533874238847,
@@ -18,7 +18,7 @@
           "Time": "2024",
           "Assets": [
             {
-              "Identifier": "conductivity",
+              "Identifier": "diffusivity",
               "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-07-Geothermal-Energy-Potential-Assessment/v2/diff_best_stu_eu_65_n2k_3857_1km_COG_matched.tif"
             },
             {
