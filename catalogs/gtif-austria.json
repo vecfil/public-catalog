@@ -12,9 +12,9 @@
     "gtime-layer",
     "city_temperature_indicator",
     "multitemporal-footprints",
-    "geothermal_energy_potential",
+    "geothermal_energy_potential_diff",
     "geothermal-energy-potential-diff",
-    "austria_geothermal_stats",
+    "austria_geothermal_stats_diff",
     "multitemporal-footprints"
   ]
 }
