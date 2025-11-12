@@ -20,7 +20,7 @@
       "id": "geoland_base",
       "name": "Geoland Basemap",
       "url": "https://mapsneu.wien.gv.at/basemap/geolandbasemap/normal/google3857/{z}/{y}/{x}.png",
-      "attribution": "{ Datenquelle: <a href=\"https://basemap.at\" target=\"_blank\" property=\"dct:title\">basemap.at</a> }",
+      "Attribution": "{ Datenquelle: <a href=\"https://basemap.at\" target=\"_blank\" property=\"dct:title\">basemap.at</a> }",
       "visible": true,
       "maxNativeZoom": 18,
       "protocol": "xyz"
