@@ -20,6 +20,7 @@
     },
     "Collections": [
       "austria_geothermal_stats",
-      "wr07-geothermal-energy-potential"
+      "wr07-geothermal-energy-potential",
+      "wr07-diffusivity"
     ]
   }
