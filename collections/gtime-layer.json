@@ -13,7 +13,7 @@
       ],
       "CollectionId": "gtime",
       "LayerId": "gtime-layer",
-      "Style": "",
+      "Style": "https://workspace-ui-public.gtif-at-get-it.hub-otc.eox.at/api/public/share/public-ebxe9szx-v1/GTIME/gtime_style.json",
       "TimeEntries": [
         {
           "Time": "2024-01-01",
