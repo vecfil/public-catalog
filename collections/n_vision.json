@@ -24,14 +24,24 @@
     "Agency": [
         "ESA"
     ],
-    "OverlayLayers": [
+    "BaseLayers": [
         {
             "id": "n_vision",
-            "name": "Rooftop characterisation",
+            "name": "Rooftop baselayer",
             "url": "https://www.n-vision.ai/tiles/v1/gleisdorf_uce41_20221003_solar_panels/ortho/{z}/{x}/{y}.png",
             "media_type": "image/png",
             "attribution": "",
             "protocol": "xyz",
+            "visible": true
+        }
+    ],
+    "OverlayLayers": [
+        {
+            "Name": "GeoJSON source",
+            "Style": "https://raw.githubusercontent.com/gtif-cerulean/assets/main/styles/wind_energy_polygon.json",
+            "Identifier": "roof detections",
+            "Title": "Rooftop Detections",
+            "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-11-Rooftop-Characterisation/n-vision_valid_geojson.geojsonf",
             "visible": true
         }
     ]
