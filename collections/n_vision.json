@@ -25,10 +25,10 @@
                 }
             ],
             "Bbox": [
-                15.70,
-                47.10,
-                15.73,
-                47.13
+                15.69,
+                47.096,
+                15.72,
+                47.113
             ]
         }
     ],
@@ -43,16 +43,6 @@
             "media_type": "image/png",
             "attribution": "",
             "protocol": "xyz",
-            "visible": true
-        }
-    ],
-    "OverlayLayers": [
-        {
-            "Name": "GeoJSON source",
-            "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-11-Rooftop-Characterisation-aaS/n-vision-style.json",
-            "Identifier": "roof detections",
-            "Title": "Rooftop Detections",
-            "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-11-Rooftop-Characterisation-aaS/n-vision_valid_geojson.geojson",
             "visible": true
         }
     ]
