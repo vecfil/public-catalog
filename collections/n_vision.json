@@ -13,6 +13,7 @@
     "Resources": [
         {
             "Name": "GeoJSON source",
+            "MergeAssets": false,
             "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-11-Rooftop-Characterisation-aaS/n-vision-style.json",
             "TimeEntries": [
                 {
