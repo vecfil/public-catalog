@@ -7,5 +7,16 @@
   "Collections": [
     "n_vision_green_roofs",
     "n_vision_solar_panels"
+  ],
+  "BaseLayers": [
+    {
+      "id": "n_vision",
+      "name": "Solar panels",
+      "url": "https://www.n-vision.ai/tiles/v1/gleisdorf_uce41_20221003_solar_panels/ortho/{z}/{x}/{y}.png",
+      "media_type": "image/png",
+      "attribution": "",
+      "protocol": "xyz",
+      "visible": true
+    }
   ]
 }
