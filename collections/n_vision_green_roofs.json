@@ -1,6 +1,6 @@
 {
-    "Name": "n_vision",
-    "Title": "Rooftop Characterisation",
+    "Name": "n_vision_green_roofs",
+    "Title": "Green Roofs",
     "CollectionGroup": " ",
     "Image": "https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nvisionpublic/nvision-solar-panels-cover.webp",
     "Themes": [
@@ -13,14 +13,15 @@
     "Resources": [
         {
             "Name": "GeoJSON source",
-            "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-11-Rooftop-Characterisation-aaS/n-vision-style.json",
+            "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-11-Rooftop-Characterisation-aaS/n-vision-green-roofs-style.json",
             "TimeEntries": [
                 {
                     "Time": "2025",
                     "Assets": [
                         {
-                            "Identifier": "Solar Panels",
-                            "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-11-Rooftop-Characterisation-aaS/n-vision_valid_geojson.geojson"
+                            "Identifier": "Green Roofs",
+                            "Title": "Green Roofs",
+                            "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-11-Rooftop-Characterisation-aaS/valid_green_roofs_geojson.geojson"
                         }
                     ]
                 }
