@@ -20,7 +20,13 @@
                     "Assets": [
                         {
                             "Identifier": "Solar Panels",
+                            "Title": "Solar Panels",
                             "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-11-Rooftop-Characterisation-aaS/n-vision_valid_geojson.geojson"
+                        },
+                        {
+                            "Identifier": "Green Roofs",
+                            "Title": "Green Roofs",
+                            "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-11-Rooftop-Characterisation-aaS/valid_green_roofs_geojson.geojson"
                         }
                     ]
                 }
