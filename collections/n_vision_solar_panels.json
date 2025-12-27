@@ -37,6 +37,12 @@
     "Agency": [
         "ESA"
     ],
+   "Provider": [
+       {
+      "Name": "N Vision",
+      "Url": "https://www.n-vision.ai/"
+       }
+    ],
     "BaseLayers": [
         {
             "id": "n_vision",
