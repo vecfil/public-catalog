@@ -9,6 +9,12 @@
     "coolingdegreedays",
     "heatingdegreedays"
   ],
+  "Provider": [
+    {
+      "Name": "GeoSphere",
+      "Url": "https://www.geosphere.at/en"
+    }
+  ],
   "Disable": [
     "coolingdegreedays",
     "heatingdegreedays"
