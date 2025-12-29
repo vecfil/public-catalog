@@ -2,11 +2,25 @@
   "Name": "n_vision_indicator",
   "Title": "Rooftop Characterisation",
   "Description": "N Vision's rooftop charachterization capabilty provides efficient and accurate mapping of [solar panel installations](https://gtif-austria.info/narratives/solar_panel_mapping) and of [green roofs](https://gtif-austria.info/narratives/green-roof-mapping) in areas of interest by analysing satellite or aerial imagery using state-of-the-art computer vision methods.",
+  "Image": "https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nvisionpublic/nvision-solar-panels-cover.webp",
   "CollectionGroup": "Capabilities",
   "EodashIdentifier": "city_temperature_indicator",
   "Collections": [
     "n_vision_green_roofs",
     "n_vision_solar_panels"
+  ],
+  "Themes": [
+    "sustainable-cities"
+  ],
+  "Tags": [
+    "Green Roofs",
+    "Solar Roofs"
+  ],
+  "Provider": [
+    {
+      "Name": "N Vision",
+      "Url": "https://www.n-vision.ai/"
+    }
   ],
   "BaseLayers": [
     {

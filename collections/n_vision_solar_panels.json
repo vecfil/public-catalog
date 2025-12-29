@@ -7,7 +7,8 @@
         "sustainable-cities"
     ],
     "Tags": [
-        "Green Roofs, Solar Roofs"
+        "Green Roofs",
+        "Solar Roofs"
     ],
     "Description": "N Vision's rooftop charachterization capabilty provides efficient and accurate mapping of [solar panel installations](https://gtif-austria.info/narratives/solar_panel_mapping) and of [green roofs](https://gtif-austria.info/narratives/green-roof-mapping) in areas of interest by analysing satellite or aerial imagery using state-of-the-art computer vision methods.",
     "Resources": [
@@ -36,12 +37,6 @@
     ],
     "Agency": [
         "ESA"
-    ],
-   "Provider": [
-       {
-      "Name": "N Vision",
-      "Url": "https://www.n-vision.ai/"
-       }
     ],
     "BaseLayers": [
         {
