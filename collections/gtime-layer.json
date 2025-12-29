@@ -5,7 +5,7 @@
   "Provider": [
     {
       "Name": "ZGIS",
-      "Url": "https://www.plus.ac.at/geoinformatik/?lang=en"
+      "Url": "https://www.plus.ac.at/geoinformatik/"
     }
    ],
    "Resources": [
