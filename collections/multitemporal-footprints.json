@@ -27,6 +27,12 @@
     }
   ],
   "EodashIdentifier": "ubi-multitemporal",
+  "Provider": [
+    {
+      "Name": "ubicube",
+      "Url": "https://www.ubicube.eu/"
+    }
+  ],
   "Themes": ["Sustainable Cities"],
   "Tags": [],
   "DataSource": {},
