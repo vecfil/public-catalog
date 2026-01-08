@@ -11,9 +11,6 @@
     "ait_predictive_maintenance",
     "gtime-layer",
     "city_temperature_indicator",
-    "wr07-geothermal-energy-potential",
-    "geothermal_energy_potential",
-    "austria_geothermal_stats",
-    "multitemporal-footprints"
+    "geothermal_energy_potential"
   ]
 }
