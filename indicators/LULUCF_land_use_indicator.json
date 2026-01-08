@@ -8,6 +8,12 @@
     "Themes": [
       "Land"
     ],
+    "Provider": [
+    {
+      "Name": "GeoVille",
+      "Url": "https://www.geoville.com/"
+    }
+    ],
     "Image": "assets/LULUCF_preview.jpg",
     "Process": {
         "Name": "LULUCF_statistics",

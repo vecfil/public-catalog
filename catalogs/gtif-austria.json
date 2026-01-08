@@ -11,6 +11,9 @@
     "ait_predictive_maintenance",
     "gtime-layer",
     "city_temperature_indicator",
-    "geothermal_energy_potential"
+    "geothermal_energy_potential",
+    "multitemporal-footprints",
+    "evapotranspiration-monitoring",
+    "n_vision_indicator"
   ]
 }
